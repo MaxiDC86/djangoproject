@@ -1,1 +1,1 @@
-web: gunicorn PaginaWeb.wsgi --lof-file -
+web: gunicorn django1.wsgi --lof-file -
